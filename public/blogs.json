@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover": "https://ibb.co.com/44W9mcr",
+      "title": "The Art of JavaScript",
+      "author": "John Doe",
+      "author_img": "https://ibb.co.com/YRTnXsg",
+      "posted_date": "2024-11-20",
+      "reading_time": 8,
+      "hashtags": ["JavaScript", "Programming", "Web Development"]
+    },
+    {
+      "id": 2,
+      "cover": "https://ibb.co.com/PYmQD4W",
+      "title": "React Simplified",
+      "author": "Jane Smith",
+      "author_img": "https://ibb.co.com/RPr91Ch",
+      "posted_date": "2024-11-18",
+      "reading_time": 12,
+      "hashtags": ["React", "Frontend", "JavaScript"]
+    },
+    {
+      "id": 3,
+      "cover": "https://ibb.co.com/HdxbMvw",
+      "title": "Mastering Node.js",
+      "author": "Alex Johnson",
+      "author_img": "https://ibb.co.com/kXh5M1x",
+      "posted_date": "2024-11-15",
+      "reading_time": 10,
+      "hashtags": ["Node.js", "Backend", "JavaScript"]
+    },
+    {
+      "id": 4,
+      "cover": "https://ibb.co.com/M63xPSn",
+      "title": "CSS Secrets Unlocked",
+      "author": "Emily Davis",
+      "author_img": "https://ibb.co.com/y5Xbv0v",
+      "posted_date": "2024-11-12",
+      "reading_time": 7,
+      "hashtags": ["CSS", "Design", "Web Development"]
+    },
+    {
+      "id": 5,
+      "cover": "https://ibb.co.com/2g5zkWk",
+      "title": "Understanding TypeScript",
+      "author": "Michael Brown",
+      "author_img": "https://ibb.co.com/r7trCx8",
+      "posted_date": "2024-11-10",
+      "reading_time": 15,
+      "hashtags": ["TypeScript", "JavaScript", "Programming"]
+    },
+    {
+      "id": 6,
+      "cover": "https://ibb.co.com/NtqG6ht",
+      "title": "Building Modern Web Apps",
+      "author": "Sarah Wilson",
+      "author_img": "https://ibb.co.com/FzQGzDY",
+      "posted_date": "2024-11-05",
+      "reading_time": 9,
+      "hashtags": ["Web Development", "JavaScript", "Tech"]
+    }
+  ]
+  
