@@ -1,60 +1,60 @@
 [
     {
       "id": 1,
-      "cover": "https://ibb.co.com/44W9mcr",
+      "cover": "https://i.ibb.co.com/c2JMgPn/futuristic-robot-hummingbird.jpg",
       "title": "The Art of JavaScript",
       "author": "John Doe",
-      "author_img": "https://ibb.co.com/YRTnXsg",
+      "author_img": "https://i.ibb.co.com/JBF6qJZ/ai-generated-concept-human.jpg",
       "posted_date": "2024-11-20",
       "reading_time": 8,
       "hashtags": ["JavaScript", "Programming", "Web Development"]
     },
     {
       "id": 2,
-      "cover": "https://ibb.co.com/PYmQD4W",
+      "cover": "https://i.ibb.co.com/BPzNnj6/international-day-education-scene-with-fantasy-style.jpg",
       "title": "React Simplified",
       "author": "Jane Smith",
-      "author_img": "https://ibb.co.com/RPr91Ch",
+      "author_img": "https://i.ibb.co.com/VDntdvH/face-recognition-personal-identification-collage-1.jpg",
       "posted_date": "2024-11-18",
       "reading_time": 12,
       "hashtags": ["React", "Frontend", "JavaScript"]
     },
     {
       "id": 3,
-      "cover": "https://ibb.co.com/HdxbMvw",
+      "cover": "https://i.ibb.co.com/16dPpVy/metaverse-avatar-collage-concept.jpg",
       "title": "Mastering Node.js",
       "author": "Alex Johnson",
-      "author_img": "https://ibb.co.com/kXh5M1x",
+      "author_img": "https://i.ibb.co.com/1T97b6L/face-recognition-personal-identification-collage-2.jpg",
       "posted_date": "2024-11-15",
       "reading_time": 10,
       "hashtags": ["Node.js", "Backend", "JavaScript"]
     },
     {
       "id": 4,
-      "cover": "https://ibb.co.com/M63xPSn",
+      "cover": "https://i.ibb.co.com/746drCv/ai-generated-robotic-insect-1.jpg",
       "title": "CSS Secrets Unlocked",
       "author": "Emily Davis",
-      "author_img": "https://ibb.co.com/y5Xbv0v",
+      "author_img": "https://i.ibb.co.com/vmHKy1y/face-recognition-personal-identification-collage-3.jpg",
       "posted_date": "2024-11-12",
       "reading_time": 7,
       "hashtags": ["CSS", "Design", "Web Development"]
     },
     {
       "id": 5,
-      "cover": "https://ibb.co.com/2g5zkWk",
+      "cover": "https://i.ibb.co.com/zGN34Q4/anthropomorphic-robot-performing-regular-human-job-future.jpg",
       "title": "Understanding TypeScript",
       "author": "Michael Brown",
-      "author_img": "https://ibb.co.com/r7trCx8",
+      "author_img": "https://i.ibb.co.com/dWcYdPC/face-recognition-personal-identification-collage-4.jpg",
       "posted_date": "2024-11-10",
       "reading_time": 15,
       "hashtags": ["TypeScript", "JavaScript", "Programming"]
     },
     {
       "id": 6,
-      "cover": "https://ibb.co.com/NtqG6ht",
+      "cover": "https://i.ibb.co.com/jbYjvKb/futuristic-business-scene-with-ultra-modern-ambiance.jpg",
       "title": "Building Modern Web Apps",
       "author": "Sarah Wilson",
-      "author_img": "https://ibb.co.com/FzQGzDY",
+      "author_img": "https://i.ibb.co.com/qpHbprg/face-recognition-personal-identification-collage.jpg",
       "posted_date": "2024-11-05",
       "reading_time": 9,
       "hashtags": ["Web Development", "JavaScript", "Tech"]
