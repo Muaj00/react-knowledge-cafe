@@ -6,17 +6,26 @@ import Header from './components/Header/Header'
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
 
   const handleAddBookmarks = blog => {
-      console.log('book marks adding soon');
+      console.log(blog);
+      const newBookmarks = [...bookmarks, blog];
+      setBookmarks(newBookmarks);
+  }
+
+  const handleAddReadingTime = time => {
+    setReadingTime(readingTime+time);
   }
   return (
     <>
 
       <Header></Header>
       <div className='flex justify-between max-w-7xl mx-auto'>
-        <Blogs handleAddBookmarks={handleAddBookmarks}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Blogs handleAddBookmarks={handleAddBookmarks}
+               handleAddReadingTime={handleAddReadingTime} 
+        ></Blogs>
+        <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
       </div>
 
     </>
